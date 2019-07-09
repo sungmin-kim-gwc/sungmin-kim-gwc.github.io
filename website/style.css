@@ -1,0 +1,14 @@
+h1{
+  font-size: 36pt;
+  font-weight: bold;
+}
+p{
+  font-family: "Times New Roman", Times, serif;
+  font-size: 12pt
+}
+img{
+  width: 500px;
+}
+#content{
+  display: none;
+}
